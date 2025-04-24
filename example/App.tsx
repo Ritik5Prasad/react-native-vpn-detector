@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {Text, View, StyleSheet} from 'react-native';
-import * as VpnDetector from 'react-native-vpn-detector';
+import * as VpnDetector from 'react-native-vpn-detector-latest'
 
 export default function App() {
   const [isVpnEnabled, setisVpnEnabled] = useState(false);

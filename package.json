@@ -1,5 +1,5 @@
 {
-  "name": "react-native-vpn-detector",
+  "name": "react-native-vpn-detector-latest",
   "version": "1.0.0",
   "description": "A React Native module that allows you to use native modules to detect VPN and Proxy Enabled in user network.",
   "react-native": "src/index.ts",

@@ -1,17 +1,17 @@
-# react-native-vpn-detector
+# react-native-vpn-detector-latest
 
 This Library used to detect vpn
 
 ## Installation
 
 ```sh
-npm install react-native-vpn-detector
+npm install react-native-vpn-detector-latest
 ```
 
 ## Usage
 
 ```
-import * as VpnDetector from 'react-native-vpn-detector';
+import * as VpnDetector from 'react-native-vpn-detector-latest';
 
  useEffect(() => {
     VpnDetector.isVPNEnabled(result => {
